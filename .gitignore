@@ -1,0 +1,15 @@
+/.idea/
+/build
+/venv
+
+/src/dist
+src/build
+src/cda/
+src/result-*
+src/cda.txt
+src/*.spec
+src/入参说明-*
+src/参数模板.xlsx
+src/说明.txt
+
+
